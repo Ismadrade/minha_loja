@@ -42,7 +42,7 @@ INSERT INTO produtos (nome, descricao, preco, quantidade) VALUES
 
 ### Go Lang
 
-1) [Baixar]((https://go.dev/doc/install)) e [instalar](https://medium.com/@rafaelmoraisdev/como-instalar-go-no-windows-10-7787faac3a7f) o Go Lang.
+1) [Baixar](https://go.dev/doc/install) e [instalar](https://medium.com/@rafaelmoraisdev/como-instalar-go-no-windows-10-7787faac3a7f) o Go Lang.
 
 ## Executando o projeto
 Dentro da pasta go_web_mvc, rodar o seguinte comando:
